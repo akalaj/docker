@@ -2,4 +2,4 @@
 
 Recipes for doing things in Docker!
 
-![Docker!](https://cdn-images-1.medium.com/max/1078/1*SNESf25E1N-8EOSg0vjg2A@2x.png)
+![Docker!](http://trojabrands.com/wp-content/uploads/2018/07/dock.png)
